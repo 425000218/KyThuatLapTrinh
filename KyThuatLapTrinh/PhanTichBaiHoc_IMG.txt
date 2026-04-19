@@ -1,0 +1,84 @@
+PHAN TICH BAI HOC TU CAC HINH PNG TRONG THU MUC IMG
+
+Nguon anh da phan tich:
+- IMG/CHUONG01 2022_2 (29 slide)
+- IMG/chuong02 2022_2 (25 slide)
+
+==================================================
+I) CHUONG 01 - CAU TRUC CHUONG TRINH NGON NGU C SHARP
+==================================================
+1. Muc tieu bai hoc
+- Lam quen moi truong lap trinh (Visual Studio).
+- Hieu cau truc co ban cua mot chuong trinh C#.
+- Thuc hanh nhap/xuat du lieu tren Console.
+
+2. Noi dung chinh
+- Moi truong lap trinh:
+  + Tao solution/project, hieu vai tro file .sln.
+  + Quan sat cau truc thu muc/file cua mot project C#.
+
+- Cau truc chuong trinh C#:
+  + using namespace de su dung thu vien.
+  + namespace, class, phuong thuc Main.
+  + Tu khoa static, cach truy cap bang toan tu '.'.
+
+- Xuat du lieu:
+  + Console.Write va Console.WriteLine.
+  + Dinh dang khi in (placeholder, can le, so thuc N2, ...).
+  + Cac ky tu dac biet (escape sequence).
+
+- Nhap du lieu:
+  + Console.Read, Console.ReadKey (hien/khong hien phim bam).
+  + Kieu tra ve ConsoleKeyInfo va thong tin phim nhan.
+
+- Chu thich trong ma nguon:
+  + Comment 1 dong: //
+  + Comment nhieu dong: /* ... */
+
+3. Bai tap cuoi chuong
+- Bai tap in huong dan chep tap tin (dang mau text).
+- Bai tap nhap chuong trinh tinh toan bien/hang so.
+- Bai tap in bang toan tu so sanh.
+
+4. Nhan xet su pham
+- Chuong 1 di theo huong "lam quen -> cau truc -> I/O -> bai tap" rat hop ly cho nguoi moi.
+- Trong repo, cac file BT1_/BT2_/BT3_ va ban nang cao tuong ung voi cac bai tap cuoi chuong.
+
+=============================================
+II) CHUONG 02 - KIEU DU LIEU VA BIEN
+=============================================
+1. Muc tieu bai hoc
+- Nam cac khai niem nen trong ngon ngu C#.
+- Phan biet kieu du lieu, bien nho, hang so.
+- Hieu pham vi va cach dat ten bien dung quy tac.
+
+2. Noi dung chinh
+- Cac khai niem co ban:
+  + Tap ky tu trong ngon ngu lap trinh.
+  + Ma ASCII va bieu dien ky tu.
+
+- Kieu du lieu trong C#/.NET:
+  + Nhom Value Type va Reference Type.
+  + So sanh bo nho stack/heap o muc nhap mon.
+
+- Bien nho (Variable):
+  + Khai bao bien theo kieu du lieu.
+  + Quy tac dat ten, y nghia ten bien.
+  + Vi tri khai bao va pham vi su dung (global/local).
+
+- Hang so (Constant):
+  + Khai bao voi tu khoa const.
+  + Khong thay doi trong qua trinh chay chuong trinh.
+
+3. Nhan xet su pham
+- Chuong 2 bo tro truc tiep cho chuong 1: sau khi biet "khung chuong trinh" thi hoc "du lieu" de viet logic.
+- Noi dung da cham den ban chat bo nho (stack/heap), tao nen tang cho cac chu de nang cao hon.
+
+=============================================
+III) KET LUAN CHUNG VE MACH BAI GIANG
+=============================================
+- Trinh tu bai giang trong IMG tao thanh lo trinh co ban dung chuan:
+  1) Moi truong + cau truc chuong trinh
+  2) Nhap/xuat + comment + bai tap can ban
+  3) Kieu du lieu, bien, hang so, pham vi
+- Day la bo nen tat yeu truoc khi hoc den cau lenh re nhanh, vong lap, ham va lap trinh huong doi tuong.
